@@ -1,1 +1,14 @@
-This file was created by IntelliJ IDEA 12.1.4 for binding GitHub repository
+Integer Maths Library
+
+Implement a library to handle the basic arithmetic functions on integer operands.
+
+You can assume the following:
+* Implement the following functions:
+** add
+** subtract
+** multiply
+** divide
+* You can only use + and - operators. The *, / & % operators are specifically excluded, as is the java.lang.Math object.
+* All operands will be positive integers between zero and Integer.MAX_VALUE, inclusive.
+* Results will be integers between Integer.MIN_VALUE & Integer.MAX_VALUE, inclusive.
+* All functions must be thoroughly unit tested using JUnit4 tests. Fest assertions may be used.
